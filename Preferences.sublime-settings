@@ -1,0 +1,12 @@
+{
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/SublimeLinter/Galea (SL).tmTheme",
+	"font_face": "Source Han Code JP",
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"open_files_in_new_window": false,
+	"theme": "Cobalt2.sublime-theme"
+}

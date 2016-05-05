@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"AutoFileName",
+		"BracketHighlighter",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"HTML5",
+		"JavaScript Completions",
+		"jQuery",
+		"LiveStyle",
+		"Package Control",
+		"SideBarEnhancements",
+		"Sublime Files",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Tag",
+		"Theme - Centurion",
+		"Theme - Cobalt2",
+		"TrailingSpaces"
+	]
+}
