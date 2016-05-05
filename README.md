@@ -5,7 +5,7 @@ My sublime settings.
 
 ### Install
 
-1. Install [Sublime Text 3]() on your machine.
+1. Install [Sublime Text 3](https://www.sublimetext.com/3) on your machine.
 2. Close Sublime Text 3
 3. Open Terminal
 
